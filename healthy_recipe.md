@@ -1,75 +1,55 @@
-**Ingredients Required:**
+### Ingredients:
+- 2 tablespoons of olive oil
+- 1 onion, finely chopped
+- 2 garlic cloves, minced
+- 1 carrot, finely chopped
+- 1 celery stalk, finely chopped
+- 500g mushrooms (cremini or button), finely chopped (as a beef alternative)
+- 1 cup of dry red wine
+- 400g canned tomatoes (crushed or diced)
+- 2 tablespoons of tomato paste
+- 1 teaspoon of dried oregano
+- 1 teaspoon of dried basil
+- Salt and pepper to taste
+- 1 cup of unsweetened plant-based milk (e.g., almond, oat, or soy milk)
+- 500g tagliatelle pasta (or any pasta of choice) 
+- Grated vegan Parmesan cheese, for serving
+- Fresh basil leaves, for garnish
 
-*For the Appetizer - Tzatziki Sauce with Pita Bread:*  
-- 2 cups Greek yogurt (or plant-based yogurt for a vegan option)  
-- 1 medium cucumber, grated and drained  
-- 2 cloves garlic, minced  
-- 1 tablespoon fresh dill, chopped (or 1 teaspoon dried dill)  
-- 1 tablespoon olive oil  
-- 1 tablespoon red wine vinegar  
-- Salt and pepper to taste  
-- 5 rounds of pita bread  
+### Preparation Instructions:
 
-*For the Main Course - Vegetable Souvlaki:*  
-- 2 cups mushrooms, cuts into 1-inch pieces (or a mix of zucchini and bell peppers for variety)  
-- 1 medium zucchini, cut into 1-inch cubes  
-- 1 medium red bell pepper, cut into 1-inch pieces  
-- 1/4 cup olive oil  
-- Juice of 2 lemons  
-- 4 cloves garlic, minced  
-- 2 teaspoons dried oregano  
-- Salt and pepper to taste  
-- 10 wooden skewers (soaked in water for 30 minutes)  
+1. **Sauté Vegetables:**
+   - In a large saucepan, heat the olive oil over medium heat. Add the finely chopped onion, garlic, carrot, and celery. Sauté for about 5-7 minutes until the vegetables are soft and translucent.
 
-*For the Side Dish - Greek Salad:*  
-- 3 large tomatoes, diced  
-- 1 cucumber, diced  
-- 1 red onion, thinly sliced  
-- 1 red bell pepper, diced  
-- 1/2 cup Kalamata olives, pitted  
-- 1/2 cup feta cheese (or vegan feta)  
-- 1/4 cup olive oil  
-- 2 tablespoons red wine vinegar  
-- 1 teaspoon dried oregano  
-- Salt and pepper to taste  
+2. **Cook the Mushrooms:**
+   - Increase the heat to medium-high, add the finely chopped mushrooms to the pan. Cook for about 8-10 minutes, breaking them up with a wooden spoon until they release their moisture and brown slightly.
 
-**Preparation Instructions:**
+3. **Add Wine:**
+   - Pour in the red wine and stir, allowing it to cook down until most of the liquid has evaporated (approximately 5 minutes).
 
-1. **Tzatziki Sauce:**  
-   - In a bowl, mix Greek yogurt (or plant-based yogurt), grated cucumber (drained well), garlic, dill, olive oil, red wine vinegar, salt, and pepper.  
-   - Refrigerate for at least 30 minutes to let the flavors meld.
+4. **Incorporate Tomatoes:**
+   - Mix in the crushed tomatoes, tomato paste, dried oregano, and dried basil. Season with salt and pepper. Bring the mixture to a gentle simmer.
 
-2. **Vegetable Souvlaki Marinade:**  
-   - In a large bowl, combine olive oil, lemon juice, garlic, oregano, salt, and pepper.  
-   - Add the mushrooms, zucchini, and bell peppers to the marinade and mix well.  
-   - Cover and marinate in the refrigerator for at least 30 minutes.
+5. **Simmer the Sauce:**
+   - Reduce the heat to low and let the sauce simmer for about 45 minutes. Stir occasionally, and add a splash of water if it becomes too thick.
 
-3. **Prepare the Greek Salad:**  
-   - In a large salad bowl, combine diced tomatoes, cucumber, red onion, bell pepper, Kalamata olives, and feta cheese (or vegan feta).  
-   - In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.  
-   - Drizzle the dressing over the salad and toss gently to combine.
+6. **Add Plant-Based Milk:**
+   - Stir in the plant-based milk and simmer for another 15 minutes. This will add a creamy richness to your vegetarian Bolognese sauce.
 
-4. **Cook the Vegetable Souvlaki:**  
-   - Preheat the grill or grill pan over medium-high heat.  
-   - Thread marinated vegetables onto skewers.  
-   - Grill the skewers for about 10-12 minutes, turning occasionally, until slightly charred and tender.
+7. **Cook the Pasta:**
+   - About 15 minutes before serving, cook the tagliatelle (or chosen pasta) according to package instructions in a large pot of salted boiling water. Drain when al dente, saving a cup of pasta water.
 
-5. **Warm the Pita Bread:**  
-   - In the last few minutes of grilling, place pita bread on the grill to warm, about 1-2 minutes per side.
+8. **Combine Pasta and Sauce:**
+   - Toss the drained pasta with the Bolognese sauce, adding reserved pasta water if needed to help coat the pasta.
 
-**Serving Suggestions:**
+### Serving Suggestions:
+- Serve the vegetarian Bolognese on warm plates, topped with grated vegan Parmesan cheese and fresh basil leaves for garnish.
+- Pair with a side of garlic bread and a simple green salad to balance the richness of the dish.
+- For an Italian dining experience, serve with a glass of red wine.
 
-- Serve the vegetable souvlaki hot from the grill alongside the tzatziki sauce and warm pita bread.  
-- Present the Greek salad in a bowl as a fresh and colorful side dish.  
-- You can garnish the plates with extra olives or a sprinkle of fresh dill for added flavor and presentation.  
-- Enjoy with a glass of traditional Greek wine or iced tea for a complete meal experience.  
+### Explanation of the Replaced Ingredients:
+- **Ground Beef and Ground Pork** have been replaced with **Mushrooms**. Mushrooms offer a meaty texture and umami flavor that closely mimics the richness of traditional meat sauces, making them an excellent substitute.
+- **Whole Milk** has been replaced with **Plant-Based Milk**, which offers a creamy consistency while keeping the dish dairy-free and suitable for vegetarians.
+- **Parmesan Cheese** has been substituted with **Vegan Parmesan Cheese**, providing similar nuttiness and flavor without using animal products.
 
-This healthy vegetarian Greek dinner is perfect for entertaining guests and enjoying a taste of Greece in the comfort of your home! 
-
-**Explanation of the Replaced Ingredients:**
-
-- **Chicken Souvlaki:** Replaced with a colorful mix of mushrooms, zucchini, and red bell pepper to maintain the essence and flavor profile while providing a healthy, plant-based alternative.
-- **Feta Cheese:** Swapped with vegan feta to accommodate plant-based diets without losing the creamy texture and tangy flavor.
-- **Greek Yogurt:** Kept the Greek yogurt idea intact, but provided an option for plant-based yogurt for those who prefer a vegan option.
-
-This modified menu keeps the authentic Greek flavors intact while being entirely vegetarian and delicious!
+Enjoy your homemade vegetarian Bolognese with family and friends!

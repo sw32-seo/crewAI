@@ -1,67 +1,51 @@
-**Greek Dinner for 5 People**
-
-**Ingredients Required:**
-
-*For the Appetizer - Tzatziki Sauce with Pita Bread:*  
-- 2 cups Greek yogurt  
-- 1 medium cucumber, grated and drained  
-- 2 cloves garlic, minced  
-- 1 tablespoon fresh dill, chopped (or 1 teaspoon dried dill)  
-- 1 tablespoon olive oil  
-- 1 tablespoon red wine vinegar  
-- Salt and pepper to taste  
-- 5 rounds of pita bread  
-
-*For the Main Course - Chicken Souvlaki:*  
-- 2 lbs boneless, skinless chicken breasts, cut into 1-inch cubes  
-- 1/4 cup olive oil  
-- Juice of 2 lemons  
-- 4 cloves garlic, minced  
-- 2 teaspoons dried oregano  
-- Salt and pepper to taste  
-- 10 wooden skewers (soaked in water for 30 minutes)  
-
-*For the Side Dish - Greek Salad:*  
-- 3 large tomatoes, diced  
-- 1 cucumber, diced  
-- 1 red onion, thinly sliced  
-- 1 red bell pepper, diced  
-- 1/2 cup Kalamata olives, pitted  
-- 1/2 cup feta cheese, crumbled  
-- 1/4 cup olive oil  
-- 2 tablespoons red wine vinegar  
-- 1 teaspoon dried oregano  
-- Salt and pepper to taste  
+**Ingredients:**
+- 2 tablespoons of olive oil
+- 1 onion, finely chopped
+- 2 garlic cloves, minced
+- 1 carrot, finely chopped
+- 1 celery stalk, finely chopped
+- 500g ground beef
+- 250g ground pork
+- 1 cup of dry red wine
+- 400g canned tomatoes (crushed or diced)
+- 2 tablespoons of tomato paste
+- 1 teaspoon of dried oregano
+- 1 teaspoon of dried basil
+- Salt and pepper to taste
+- 1 cup of whole milk
+- 500g tagliatelle pasta (or any pasta of choice)
+- Grated Parmesan cheese, for serving
+- Fresh basil leaves, for garnish
 
 **Preparation Instructions:**
 
-1. **Tzatziki Sauce:**  
-   - In a bowl, mix Greek yogurt, grated cucumber (make sure it’s drained well), garlic, dill, olive oil, red wine vinegar, salt, and pepper.  
-   - Refrigerate for at least 30 minutes to let the flavors meld.
+1. **Sauté Vegetables:**
+   - In a large saucepan, heat the olive oil over medium heat. Add the finely chopped onion, garlic, carrot, and celery. Sauté for about 5-7 minutes until the vegetables are soft and translucent.
 
-2. **Chicken Souvlaki Marinade:**  
-   - In a large bowl, combine olive oil, lemon juice, garlic, oregano, salt, and pepper.  
-   - Add the chicken cubes to the marinade and mix well.  
-   - Cover and marinate in the refrigerator for at least 1 hour, or overnight if possible.
+2. **Cook the Meat:**
+   - Increase the heat to medium-high, add the ground beef and pork to the pan. Cook for about 8-10 minutes, breaking it up with a wooden spoon until browned. Make sure any excess moisture evaporates.
 
-3. **Prepare the Greek Salad:**  
-   - In a large salad bowl, combine diced tomatoes, cucumber, red onion, bell pepper, Kalamata olives, and feta cheese.  
-   - In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.  
-   - Drizzle the dressing over the salad and toss gently to combine.
+3. **Add Wine:**
+   - Pour in the red wine and stir, allowing it to cook down until most of the liquid has evaporated (about 5 minutes).
 
-4. **Cook the Chicken Souvlaki:**  
-   - Preheat the grill or grill pan over medium-high heat.  
-   - Thread marinated chicken onto skewers.  
-   - Grill the skewers for about 10-12 minutes, turning occasionally, until cooked through and slightly charred. Ensure the internal temperature reaches 165°F (75°C).
+4. **Incorporate Tomatoes:**
+   - Mix in the crushed tomatoes, tomato paste, dried oregano, and dried basil. Season with salt and pepper. Bring the mixture to a gentle simmer.
 
-5. **Warm the Pita Bread:**  
-   - In the last few minutes of grilling, place pita bread on the grill to warm, about 1-2 minutes per side.
+5. **Simmer the Sauce:**
+   - Reduce the heat to low and let the sauce simmer for about 45 minutes. Stir occasionally, and add a splash of water if it becomes too thick.
+
+6. **Add Milk:**
+   - Stir in the milk and simmer for another 15 minutes. This will add richness to your Bolognese sauce.
+
+7. **Cook the Pasta:**
+   - About 15 minutes before serving, cook the tagliatelle (or chosen pasta) according to package instructions in a large pot of salted boiling water. Drain when al dente, saving a cup of pasta water.
+
+8. **Combine Pasta and Sauce:**
+   - Toss the drained pasta with the Bolognese sauce, adding reserved pasta water if needed to help coat the pasta.
 
 **Serving Suggestions:**
+- Serve the Bolognese on warm plates, topped with grated Parmesan cheese and fresh basil leaves for garnish.
+- Pair with a side of garlic bread and a simple green salad to balance the richness of the dish.
+- Pair with a glass of red wine for the full Italian dining experience. 
 
-- Serve the chicken souvlaki hot from the grill alongside the tzatziki sauce and warm pita bread.  
-- Present the Greek salad in a bowl as a fresh and colorful side dish.  
-- You can garnish the plates with extra olives or a sprinkle of fresh dill for added flavor and presentation.  
-- Enjoy with a glass of traditional Greek wine or iced tea for a complete meal experience.  
-
-This Greek dinner is perfect for entertaining guests and enjoying a taste of Greece in the comfort of your home!
+Enjoy your homemade Bolognese with friends and family!
