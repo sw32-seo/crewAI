@@ -1,0 +1,10 @@
+{
+    "instances": [
+        {
+            "content": "Hello World"
+        }
+    ],
+    "parameters": {
+        "autoTruncate": true
+    }
+}
